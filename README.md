@@ -53,3 +53,8 @@ THE LIST:
 -li
 -li
 -li
+
+LISTENERS:
+-window.onload
+-form (input textfield, submit button)
+-checkbox, remove button

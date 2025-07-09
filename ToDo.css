@@ -10,7 +10,11 @@ body {
 h1 {
   text-align: center;
   margin-bottom: 2rem;
-  color: #00ffff;
+  color: #462c10cc;
+}
+
+h2 {
+  color: #070707cc;
 }
 
 input[type="text"] {
@@ -22,7 +26,7 @@ input[type="text"] {
   background-color: #1f1f1f;
   color: #ffffff;
   outline: none;
-  box-shadow: 0 0 5px #00ffff;
+  box-shadow: 0 0 5px #462c10cc;
   margin-bottom: 1rem;
 }
 
@@ -52,13 +56,13 @@ li label {
 
 input[type="checkbox"] {
   transform: scale(1.2);
-  accent-color: #00ffff;
+  accent-color: #e08627cc;
 }
 
 button:hover {
   background-color: #ffffff;
   color: black;
   transform: scale(1.05);
-  box-shadow: 0 0 5px #00ffff;
+  box-shadow: 0 0 5px #e08627cc;
   border-radius: 4px;
 }
